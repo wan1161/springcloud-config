@@ -10,5 +10,5 @@ mybatis:
   type-aliases-package: com.atguigu.springcloud.entities    # 所有Entity别名类所在包
 
 config: 
-  info: this is dev config 4.0
+  info: this is dev config 5.0
 
